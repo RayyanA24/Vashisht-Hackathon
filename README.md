@@ -66,7 +66,7 @@ Vashisht-Hackathon/
 ### **1️⃣ Clone the Repository**
 
 ```bash
-git clone https://github.com/APillai03/Vashisht-Hackathon
+git clone https://github.com/RayyanA24/Vashisht-Hackathon
 cd Vashisht-Hackathon
 ```
 ### **2️⃣ Extract Database.zip**
